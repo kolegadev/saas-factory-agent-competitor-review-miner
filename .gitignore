@@ -1,0 +1,11 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
+*.log
+data/outbox/*.json
+data/inbox/*.json
+data/archive/*.json
