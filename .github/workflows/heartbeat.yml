@@ -1,0 +1,20 @@
+name: Agent Heartbeat
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update state
+        run: |
+          echo '{"heartbeat": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'", "runs": '${GITHUB_RUN_NUMBER}'}' > data/state.json
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git diff --cached --quiet || git commit -m "chore: heartbeat [${GITHUB_RUN_NUMBER}]"
+          git push
