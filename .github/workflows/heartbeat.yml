@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Update state
         run: |
+          mkdir -p data
           echo '{"heartbeat": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'", "runs": '${GITHUB_RUN_NUMBER}'}' > data/state.json
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
