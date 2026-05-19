@@ -1,0 +1,30 @@
+name: Competitor Review Miner Scan
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          pip install -q requests python-dotenv
+      - name: Run Competitor Review Miner
+        env:
+          AGENT_NAME: competitor-review-miner
+          AGENT_ID: '3'
+        run: python runtime/main.py
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "scan: competitor-review-miner run [${GITHUB_RUN_NUMBER}]"
+          git push
