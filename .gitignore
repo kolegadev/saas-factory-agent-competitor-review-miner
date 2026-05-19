@@ -6,6 +6,5 @@ __pycache__/
 node_modules/
 .DS_Store
 *.log
-data/outbox/*.json
 data/inbox/*.json
 data/archive/*.json
