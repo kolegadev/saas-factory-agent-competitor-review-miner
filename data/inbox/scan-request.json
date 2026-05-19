@@ -1,0 +1,22 @@
+{
+  "request_id": "competitor-review-scan-default",
+  "agent": "competitor-review-miner",
+  "agent_id": 3,
+  "workflow": {
+    "steps": [
+      {
+        "skill": "competitor-review-miner",
+        "inputs": {
+          "competitor_names": [
+            "Asana",
+            "Monday.com",
+            "Trello"
+          ],
+          "max_reviews_per_source": 5
+        }
+      }
+    ]
+  },
+  "mode": "review_mining",
+  "human_review_required": false
+}
