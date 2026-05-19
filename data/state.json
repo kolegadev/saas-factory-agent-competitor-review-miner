@@ -1,8 +1,8 @@
 {
   "heartbeat": "2026-05-18T23:50:17Z",
-  "runs": 39,
+  "runs": 41,
   "status": "idle",
-  "last_run": "2026-05-19T17:42:46.575728+00:00",
-  "last_artifact": "data/outbox/1779212566_output.json",
-  "last_manifest": "data/inbox/scan-request.json"
+  "last_run": "2026-05-19T18:07:20.628094+00:00",
+  "last_artifact": "data/outbox/1779214040_output.json",
+  "last_manifest": "data/inbox/scan-request-1779212551356.json"
 }

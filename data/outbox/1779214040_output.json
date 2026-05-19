@@ -1,0 +1,156 @@
+{
+  "agent": "competitor-review-miner",
+  "agent_id": 3,
+  "manifest_id": "dispatch-6a0ca107a116be5f4ac07878",
+  "timestamp": "2026-05-19T18:07:20.627325+00:00",
+  "context": {
+    "step_0": {
+      "reviews": [
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Side-by-Side Comparisons - Top 5 PMIS Software",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dsoftwareadvice.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DP5pCqXOtEk%252DnkA21bvsyA8uCl6zj8dlmEXxRaTTmMQrasFd9Y50hkzE6TXjZEXTmFMlipKYGr8tn8zMMrhG1VRXwyEUAJ7AFRBKy%252DapOizAUjlQyK5_3FHlRa46A2wn7lAak4n53Pr04DY4N3f25_4usuE%252DtJdzlhAhvpyZiAz8.MZ6LOhJdpiRP3QqIGnwtjA%26rut%3Dfeca638a5adb864f5ffeaeb12fd197e892aacbc9b892dabb7ad8d4dff1a29b5a%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8LxTNkVxWJ0qLPQEIBFiKkjVUCUzdKDhKt6Ic9q2gzdwBf6PNzUs98jWEC5H7uorRrq7YMsXtfHkyGaZmD0sJ3rWkP7VsPDIYSsPhx0IimGnqsVaYnivrlgPFxxeV5T2Q3ktWXPN5F7qWRJtC6G2ccwnuO%252DSy1I5pugV5CjtoK9kIx_U4wR%252DXg4oJ0WOfB1TgPxdFzmahjgqX33JxScfdiAPvUe8%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuc29mdHdhcmVhZHZpY2UuY29tJTJmcHJvamVjdC1tYW5hZ2VtZW50JTJmcHJpY2UtcXVvdGVzLWFuZC1mcmVlLXJlY29tbWVuZGF0aW9ucyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nLXNlYXJjaCUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fdGVybSUzZHByb2plY3QlMjUyMG1hbmFnZW1lbnQlMjUyMGluZm9ybWF0aW9uJTI1MjBzeXN0ZW0lMjUyMHNvZnR3YXJlJTI2dXRtX21hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkcyUyNmFkcG9zJTNkJTI2YWQlM2QlMjZzaXRlbGluayUzZCUyNmxvY2F0aW9uJTNkODc1NDUlMjZnY2xzcmMlM2QzcC5kcyUyNiUyNnRhcmdldGlkJTNka3dkLTczNjY3ODA3NzY4ODc3JTNhbG9jLTE5MCUyNmNhbXBhaWduJTNkNTY5NzAwNDEwJTI2YWRncm91cCUzZDExNzg2NzgzMTEwODAzNTglMjZ1dG1fY2FtcGFpZ24lM2QlM2ExJTNhU0ElM2EyJTNhQ09NJTNhMyUzYUVORyUzYTQlM2FVUyUzYTUlM2FCQVUlM2E2JTNhU09GJTNhNyUzYUFsbCUzYTglM2FQSCUzYTklM2FQcm9qZWN0X01hbmFnZW1lbnQlM2ExMyUzYVBNJTI2bXNjbGtpZCUzZGVjZjE0N2ZlM2E0OTExMzg0ZmJmMmRmMjljOWY4MTU5%2526rlid%253Decf147fe3a4911384fbf2df29c9f8159%26vqd%3D4%2D279086891091920016343195019695118575438%26iurl%3D%257B1%257DIG%253DFFE45126425647E480A2B2197DE19B6A%2526CID%253D34B5E869620862260241FF376344633F%2526ID%253DDevEx%252C5038.1&amp;rut=3e57b0197ad683aa974ce59c901a92c08733f7b5f98bf4fe6adfe8160d6fb0af",
+          "sentiment": "negative"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Top 10 PM Software - Verified User Reviews - Best PM Tool",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dcapterra.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DjUlmCL7RuGsD4Krd4pPqFkK2Ak1eAbHtQAI6Vq4Qei_kWlIeDOVCRqff8uFA2Dkr1%252DyXgyt3rW%252DPQfwm00jVamAbZa_F7iMxeRb2C7R6DwLAMwH2XobApyfIhnA4SAeJBnEiWGM6CC4MGfISa9VUEXMiLj24nZSp9kza5lfX0UE.2Iwl%252DfId88YLPjskhNmP5w%26rut%3D4271443c6e48e7c7daa948036adb9715708c662e6ab1497798117008343227da%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8%252DfBtvcH6qq_qGj6hQuTfPjVUCUxPw5eIXQZ8pBFCZbWWVDIv4hepzDpLfdh4LL2Peso01LZoklXhatRGAmp8dwqJu0lwS4DDLzNZjFBsUI3fGUVnKXRrTLb5A1dBM%252Dl_QzTYDYOH92DZSpOUQw5WuJWpcAiQocRPs7Z6G_5_r20uxrF7L%252DAt5SBjs1xnoaZQ71iVjT3epIXz3yqUNa367bTRjqc%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuY2FwdGVycmEuY29tJTJmbXNuY2xpY2slM2Z1cmwlM2Rwcm9qZWN0LW1hbmFnZW1lbnQtc29mdHdhcmUlMjZoZWFkbGluZSUzZFByb2plY3QlMjUyME1hbmFnZW1lbnQlMjZjb21wYXJlX3NscCUzZHRydWUlMjZwdHlwZSUzZGJpbmclMjZhY2NvdW50X2NhbXBhaWduX2lkJTNkNjk4MTM2MzAwJTI2YWNjb3VudF9hZGdyb3VwX2lkJTNkMTI1MDE0NjAyMzYyMTQ2MyUyNnRhcmdldCUzZHRvcCUyNTIwMTAlMjUyMHByb2plY3QlMjUyMG1hbmFnZW1lbnQlMjUyMHNvZnR3YXJlcyUyNmFkX2lkJTNkJTI2bWF0Y2h0eXBlJTNkcCUyNnV0bV9zb3VyY2UlM2Rwcy1iaW5nJTI2dXRtX21lZGl1bSUzZHBwYyUyNnV0bV9jYW1wYWlnbiUzZCUzYTElM2FDQVAlM2EyJTNhQ09NJTNhMyUzYUFsbCUzYTQlM2FVUyUzYTUlM2FCQVUlM2E2JTNhU09GJTNhNyUzYURlc2t0b3AlM2E4JTNhQlIlM2E5JTNhUHJvamVjdF9NYW5hZ2VtZW50JTI2bmV0d29yayUzZHMlMjZtc2Nsa2lkJTNkZWFiOTRmZjc2ZjM4MTllZDZlNjcyNWZiYzllZTgyNjg%2526rlid%253Deab94ff76f3819ed6e6725fbc9ee8268%26vqd%3D4%2D308613882420247289385180135056295717863%26iurl%3D%257B1%257DIG%253DFFE45126425647E480A2B2197DE19B6A%2526CID%253D34B5E869620862260241FF376344633F%2526ID%253DDevEx%252C5041.1&amp;rut=da89ba7ebc013e4ca08bee98b5ab37a5c5565dd4b675363db5cf638ab6354438",
+          "sentiment": "negative"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Asana Reviews 2025 | G2",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fasana%2Freviews&amp;rut=cd8002859b0496776b0d672501c973514f6ed25b74052f37a34d92e59802feea",
+          "sentiment": "negative"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Asana Products | Read 13711 Reviews on G2",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.g2.com%2Fsellers%2Fasana&amp;rut=52679b255f1a25de77bb59dbbba76c85951a15340d3875a1705241a506dbb01f",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Asana Pros and Cons | User Likes &amp; Dislikes - G2",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fasana%2Freviews%3Fqs%3Dpros%2Dand%2Dcons&amp;rut=16080b34e10e07be2ae92f218ae3e2774cb2220f0a8550f4db456e9d82ad88e5",
+          "sentiment": "positive"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "10 Best Kanban Software - Side-by-Side Comparison (2026)",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dconsumervoice.org%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DVWPc6Uq9eo1CWu1noQ14RKRXEldb2JjBh_bEyOTi6CoOWYF8kc_aJzBIdyiCMhIVsvzrx4CC1gI90eAOBt08eL68Mh5XETTsDlFiwix4wt7loXZFnhA63wXNIkwgSSGFaBIlIoG%252DIwrWLs1XPHzv9pg15JWryMcVQETEEzKoVAc.iKaRuyPqwLT6iD0FoxSLvQ%26rut%3Da9658aa7b35e6a0db0631d7ed017e12c49f31234095e469270360df38c956b98%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8KMZB9iuchQZSkzTRZTDqljVUCUwJ1CXnu2kdef0CSy%252D%252DkAS_Phf9PP4L6jdSkzNqFs6Nj52Cto1MlmWrz3YEuT56ljMZR_C%252DZCFT3W_0cCd2QX8L7Q6lnWxNfRJwLdADXiC7lv3XxejwpAAQy6WSalEOTRFbfv8Yk2axhTjBWvLxQypILAeKC5T51dayt9bCdJyFO8Mm%252DC1PsYAN6KZcU62qrc0%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuY29uc3VtZXJ2b2ljZS5vcmclMmZ0b3Ata2FuYmFuJTNmZ2NsaWQlM2QlMjZrdyUzZGthbmJhbiUyNTIwcHJvamVjdCUyNTIwbWFuYWdlbWVudCUyNTIwc29mdHdhcmUlMjZjcG4lM2Q0MDM2ODAyODUlMjZhZGdyb3VwJTNkMTMzNzAwNjczMDY1OTExMCUyNmxvY19waHlzaWNhbCUzZDEwMjA1NyUyNmxvY19pbnRlcmVzdCUzZCUyNm1hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkcyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZCUyNnBsYWNlbWVudCUzZCUyNnRhcmdldCUzZCUyNmFkcG9zJTNkJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZiX3JlZiUzZGVhZmI0ZDJlYzJiNzFmZjg0ODNiMjcyMjY0NjA1ZTdlJTI2bXNjbGtpZCUzZGVhZmI0ZDJlYzJiNzFmZjg0ODNiMjcyMjY0NjA1ZTdl%2526rlid%253Deafb4d2ec2b71ff8483b272264605e7e%26vqd%3D4%2D207461835467322162638252991572978508667%26iurl%3D%257B1%257DIG%253D18F9A6F3BFA5463090C02DF6E7967A0F%2526CID%253D3E0659785DC46AAB16604E265C886B37%2526ID%253DDevEx%252C5043.1&amp;rut=878370a4c6fb8e982bd3398ab22399f9eeee53fbaf2a915561ffb88b336635fa",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Top 5 PMIS Software - Side-by-Side Comparisons",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dsoftwareadvice.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DnNX8%252DJ0mAw3WjZlsxEZbCNZuJmRcWXRJ1U9iIxpcYUGz_wARYUPpge9KRiUFUnOBJVUwqtg8nxgq0hX22laCwEVSeneaiwTU4Vit%252DCjrGi4B9wNe5lhwwPwN5gz3jDpgTToBYM1BBRDlZKeq9v37V4yUmxnNI%252D0Uk5kWnN82UAg.IWeZLPqv65NpWKNYFutaSw%26rut%3D25d0ca22e212ed3c892aad19426c023647f3794dd50f14960f09f4bfb89857c4%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8AJKN638dSINpDAErsdh_rTVUCUyF7mDB2kPrYS1_T2N7TIh4GUw0xjtf99x_F2K%252Dgoe%252DGjEd1H3BGhWlCAb8s8Ad%252DvNYYq2ZNIziTOMWsuUi8xCTbS7nNXJujkLEHSxVub7nbVjf405KKS9KhS7NjeFmg9sjmvzahF3eIBPjLZznlgSSWZfZ8yI_6JNbqI%252DZWPmqFoXmXJxadLYwLx3udpH1P0E%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuc29mdHdhcmVhZHZpY2UuY29tJTJmcHJvamVjdC1tYW5hZ2VtZW50JTJmcHJpY2UtcXVvdGVzLWFuZC1mcmVlLXJlY29tbWVuZGF0aW9ucyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nLXNlYXJjaCUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fdGVybSUzZHByb2plY3QlMjUyMG1hbmFnZW1lbnQlMjUyMGluZm9ybWF0aW9uJTI1MjBzeXN0ZW0lMjUyMHNvZnR3YXJlJTI2dXRtX21hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkcyUyNmFkcG9zJTNkJTI2YWQlM2QlMjZzaXRlbGluayUzZCUyNmxvY2F0aW9uJTNkMTAyMDU3JTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZ0YXJnZXRpZCUzZGt3ZC03MzY2NzgwNzc2ODg3NyUzYWxvYy0xOTAlMjZjYW1wYWlnbiUzZDU2OTcwMDQxMCUyNmFkZ3JvdXAlM2QxMTc4Njc4MzExMDgwMzU4JTI2dXRtX2NhbXBhaWduJTNkJTNhMSUzYVNBJTNhMiUzYUNPTSUzYTMlM2FFTkclM2E0JTNhVVMlM2E1JTNhQkFVJTNhNiUzYVNPRiUzYTclM2FBbGwlM2E4JTNhUEglM2E5JTNhUHJvamVjdF9NYW5hZ2VtZW50JTNhMTMlM2FQTSUyNm1zY2xraWQlM2Q0MmE2M2Y0ZDI3YzMxN2E2ZmNhYTU1NDE4MTE0NDA4OQ%2526rlid%253D42a63f4d27c317a6fcaa554181144089%26vqd%3D4%2D139128645455663606624694634475436451897%26iurl%3D%257B1%257DIG%253D18F9A6F3BFA5463090C02DF6E7967A0F%2526CID%253D3E0659785DC46AAB16604E265C886B37%2526ID%253DDevEx%252C5047.1&amp;rut=26eb44158fb5fc071a57ef24caaa8c590bb8fe55186bb8ffd581e6b003b24ca4",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Asana Reviews 2026. Verified Reviews, Pros &amp; Cons | Capterra",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.capterra.com%2Fp%2F184581%2FAsana%2DPM%2Freviews%2F&amp;rut=f40ed19795e4f736a3c1bd6a7824c825f117e75da2f0add51c044cbd52ae52f2",
+          "sentiment": "positive"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Asana Software Pricing, Alternatives &amp; More 2026 | Capterra",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.capterra.com%2Fp%2F184581%2FAsana%2DPM%2F&amp;rut=e7fdb5a1c4064f394dcc06a1d871c510d700ecb98cca5b6c93428c2f5a9b90e0",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Asana Pricing: A Comprehensive Guide | Capterra",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.capterra.com%2Fp%2F184581%2FAsana%2DPM%2Fpricing%2F&amp;rut=6c6606db6ab4b8089d5dfa7f8e36f77c36b502740afe6a3f6476b00959b189a7",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "last_output": {
+      "reviews": [
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Side-by-Side Comparisons - Top 5 PMIS Software",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dsoftwareadvice.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DP5pCqXOtEk%252DnkA21bvsyA8uCl6zj8dlmEXxRaTTmMQrasFd9Y50hkzE6TXjZEXTmFMlipKYGr8tn8zMMrhG1VRXwyEUAJ7AFRBKy%252DapOizAUjlQyK5_3FHlRa46A2wn7lAak4n53Pr04DY4N3f25_4usuE%252DtJdzlhAhvpyZiAz8.MZ6LOhJdpiRP3QqIGnwtjA%26rut%3Dfeca638a5adb864f5ffeaeb12fd197e892aacbc9b892dabb7ad8d4dff1a29b5a%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8LxTNkVxWJ0qLPQEIBFiKkjVUCUzdKDhKt6Ic9q2gzdwBf6PNzUs98jWEC5H7uorRrq7YMsXtfHkyGaZmD0sJ3rWkP7VsPDIYSsPhx0IimGnqsVaYnivrlgPFxxeV5T2Q3ktWXPN5F7qWRJtC6G2ccwnuO%252DSy1I5pugV5CjtoK9kIx_U4wR%252DXg4oJ0WOfB1TgPxdFzmahjgqX33JxScfdiAPvUe8%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuc29mdHdhcmVhZHZpY2UuY29tJTJmcHJvamVjdC1tYW5hZ2VtZW50JTJmcHJpY2UtcXVvdGVzLWFuZC1mcmVlLXJlY29tbWVuZGF0aW9ucyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nLXNlYXJjaCUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fdGVybSUzZHByb2plY3QlMjUyMG1hbmFnZW1lbnQlMjUyMGluZm9ybWF0aW9uJTI1MjBzeXN0ZW0lMjUyMHNvZnR3YXJlJTI2dXRtX21hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkcyUyNmFkcG9zJTNkJTI2YWQlM2QlMjZzaXRlbGluayUzZCUyNmxvY2F0aW9uJTNkODc1NDUlMjZnY2xzcmMlM2QzcC5kcyUyNiUyNnRhcmdldGlkJTNka3dkLTczNjY3ODA3NzY4ODc3JTNhbG9jLTE5MCUyNmNhbXBhaWduJTNkNTY5NzAwNDEwJTI2YWRncm91cCUzZDExNzg2NzgzMTEwODAzNTglMjZ1dG1fY2FtcGFpZ24lM2QlM2ExJTNhU0ElM2EyJTNhQ09NJTNhMyUzYUVORyUzYTQlM2FVUyUzYTUlM2FCQVUlM2E2JTNhU09GJTNhNyUzYUFsbCUzYTglM2FQSCUzYTklM2FQcm9qZWN0X01hbmFnZW1lbnQlM2ExMyUzYVBNJTI2bXNjbGtpZCUzZGVjZjE0N2ZlM2E0OTExMzg0ZmJmMmRmMjljOWY4MTU5%2526rlid%253Decf147fe3a4911384fbf2df29c9f8159%26vqd%3D4%2D279086891091920016343195019695118575438%26iurl%3D%257B1%257DIG%253DFFE45126425647E480A2B2197DE19B6A%2526CID%253D34B5E869620862260241FF376344633F%2526ID%253DDevEx%252C5038.1&amp;rut=3e57b0197ad683aa974ce59c901a92c08733f7b5f98bf4fe6adfe8160d6fb0af",
+          "sentiment": "negative"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Top 10 PM Software - Verified User Reviews - Best PM Tool",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dcapterra.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DjUlmCL7RuGsD4Krd4pPqFkK2Ak1eAbHtQAI6Vq4Qei_kWlIeDOVCRqff8uFA2Dkr1%252DyXgyt3rW%252DPQfwm00jVamAbZa_F7iMxeRb2C7R6DwLAMwH2XobApyfIhnA4SAeJBnEiWGM6CC4MGfISa9VUEXMiLj24nZSp9kza5lfX0UE.2Iwl%252DfId88YLPjskhNmP5w%26rut%3D4271443c6e48e7c7daa948036adb9715708c662e6ab1497798117008343227da%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8%252DfBtvcH6qq_qGj6hQuTfPjVUCUxPw5eIXQZ8pBFCZbWWVDIv4hepzDpLfdh4LL2Peso01LZoklXhatRGAmp8dwqJu0lwS4DDLzNZjFBsUI3fGUVnKXRrTLb5A1dBM%252Dl_QzTYDYOH92DZSpOUQw5WuJWpcAiQocRPs7Z6G_5_r20uxrF7L%252DAt5SBjs1xnoaZQ71iVjT3epIXz3yqUNa367bTRjqc%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuY2FwdGVycmEuY29tJTJmbXNuY2xpY2slM2Z1cmwlM2Rwcm9qZWN0LW1hbmFnZW1lbnQtc29mdHdhcmUlMjZoZWFkbGluZSUzZFByb2plY3QlMjUyME1hbmFnZW1lbnQlMjZjb21wYXJlX3NscCUzZHRydWUlMjZwdHlwZSUzZGJpbmclMjZhY2NvdW50X2NhbXBhaWduX2lkJTNkNjk4MTM2MzAwJTI2YWNjb3VudF9hZGdyb3VwX2lkJTNkMTI1MDE0NjAyMzYyMTQ2MyUyNnRhcmdldCUzZHRvcCUyNTIwMTAlMjUyMHByb2plY3QlMjUyMG1hbmFnZW1lbnQlMjUyMHNvZnR3YXJlcyUyNmFkX2lkJTNkJTI2bWF0Y2h0eXBlJTNkcCUyNnV0bV9zb3VyY2UlM2Rwcy1iaW5nJTI2dXRtX21lZGl1bSUzZHBwYyUyNnV0bV9jYW1wYWlnbiUzZCUzYTElM2FDQVAlM2EyJTNhQ09NJTNhMyUzYUFsbCUzYTQlM2FVUyUzYTUlM2FCQVUlM2E2JTNhU09GJTNhNyUzYURlc2t0b3AlM2E4JTNhQlIlM2E5JTNhUHJvamVjdF9NYW5hZ2VtZW50JTI2bmV0d29yayUzZHMlMjZtc2Nsa2lkJTNkZWFiOTRmZjc2ZjM4MTllZDZlNjcyNWZiYzllZTgyNjg%2526rlid%253Deab94ff76f3819ed6e6725fbc9ee8268%26vqd%3D4%2D308613882420247289385180135056295717863%26iurl%3D%257B1%257DIG%253DFFE45126425647E480A2B2197DE19B6A%2526CID%253D34B5E869620862260241FF376344633F%2526ID%253DDevEx%252C5041.1&amp;rut=da89ba7ebc013e4ca08bee98b5ab37a5c5565dd4b675363db5cf638ab6354438",
+          "sentiment": "negative"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Asana Reviews 2025 | G2",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fasana%2Freviews&amp;rut=cd8002859b0496776b0d672501c973514f6ed25b74052f37a34d92e59802feea",
+          "sentiment": "negative"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Asana Products | Read 13711 Reviews on G2",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.g2.com%2Fsellers%2Fasana&amp;rut=52679b255f1a25de77bb59dbbba76c85951a15340d3875a1705241a506dbb01f",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "g2.com",
+          "title": "Asana Pros and Cons | User Likes &amp; Dislikes - G2",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fasana%2Freviews%3Fqs%3Dpros%2Dand%2Dcons&amp;rut=16080b34e10e07be2ae92f218ae3e2774cb2220f0a8550f4db456e9d82ad88e5",
+          "sentiment": "positive"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "10 Best Kanban Software - Side-by-Side Comparison (2026)",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dconsumervoice.org%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DVWPc6Uq9eo1CWu1noQ14RKRXEldb2JjBh_bEyOTi6CoOWYF8kc_aJzBIdyiCMhIVsvzrx4CC1gI90eAOBt08eL68Mh5XETTsDlFiwix4wt7loXZFnhA63wXNIkwgSSGFaBIlIoG%252DIwrWLs1XPHzv9pg15JWryMcVQETEEzKoVAc.iKaRuyPqwLT6iD0FoxSLvQ%26rut%3Da9658aa7b35e6a0db0631d7ed017e12c49f31234095e469270360df38c956b98%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8KMZB9iuchQZSkzTRZTDqljVUCUwJ1CXnu2kdef0CSy%252D%252DkAS_Phf9PP4L6jdSkzNqFs6Nj52Cto1MlmWrz3YEuT56ljMZR_C%252DZCFT3W_0cCd2QX8L7Q6lnWxNfRJwLdADXiC7lv3XxejwpAAQy6WSalEOTRFbfv8Yk2axhTjBWvLxQypILAeKC5T51dayt9bCdJyFO8Mm%252DC1PsYAN6KZcU62qrc0%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuY29uc3VtZXJ2b2ljZS5vcmclMmZ0b3Ata2FuYmFuJTNmZ2NsaWQlM2QlMjZrdyUzZGthbmJhbiUyNTIwcHJvamVjdCUyNTIwbWFuYWdlbWVudCUyNTIwc29mdHdhcmUlMjZjcG4lM2Q0MDM2ODAyODUlMjZhZGdyb3VwJTNkMTMzNzAwNjczMDY1OTExMCUyNmxvY19waHlzaWNhbCUzZDEwMjA1NyUyNmxvY19pbnRlcmVzdCUzZCUyNm1hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkcyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZCUyNnBsYWNlbWVudCUzZCUyNnRhcmdldCUzZCUyNmFkcG9zJTNkJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZiX3JlZiUzZGVhZmI0ZDJlYzJiNzFmZjg0ODNiMjcyMjY0NjA1ZTdlJTI2bXNjbGtpZCUzZGVhZmI0ZDJlYzJiNzFmZjg0ODNiMjcyMjY0NjA1ZTdl%2526rlid%253Deafb4d2ec2b71ff8483b272264605e7e%26vqd%3D4%2D207461835467322162638252991572978508667%26iurl%3D%257B1%257DIG%253D18F9A6F3BFA5463090C02DF6E7967A0F%2526CID%253D3E0659785DC46AAB16604E265C886B37%2526ID%253DDevEx%252C5043.1&amp;rut=878370a4c6fb8e982bd3398ab22399f9eeee53fbaf2a915561ffb88b336635fa",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Top 5 PMIS Software - Side-by-Side Comparisons",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dsoftwareadvice.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DnNX8%252DJ0mAw3WjZlsxEZbCNZuJmRcWXRJ1U9iIxpcYUGz_wARYUPpge9KRiUFUnOBJVUwqtg8nxgq0hX22laCwEVSeneaiwTU4Vit%252DCjrGi4B9wNe5lhwwPwN5gz3jDpgTToBYM1BBRDlZKeq9v37V4yUmxnNI%252D0Uk5kWnN82UAg.IWeZLPqv65NpWKNYFutaSw%26rut%3D25d0ca22e212ed3c892aad19426c023647f3794dd50f14960f09f4bfb89857c4%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8AJKN638dSINpDAErsdh_rTVUCUyF7mDB2kPrYS1_T2N7TIh4GUw0xjtf99x_F2K%252Dgoe%252DGjEd1H3BGhWlCAb8s8Ad%252DvNYYq2ZNIziTOMWsuUi8xCTbS7nNXJujkLEHSxVub7nbVjf405KKS9KhS7NjeFmg9sjmvzahF3eIBPjLZznlgSSWZfZ8yI_6JNbqI%252DZWPmqFoXmXJxadLYwLx3udpH1P0E%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuc29mdHdhcmVhZHZpY2UuY29tJTJmcHJvamVjdC1tYW5hZ2VtZW50JTJmcHJpY2UtcXVvdGVzLWFuZC1mcmVlLXJlY29tbWVuZGF0aW9ucyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nLXNlYXJjaCUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fdGVybSUzZHByb2plY3QlMjUyMG1hbmFnZW1lbnQlMjUyMGluZm9ybWF0aW9uJTI1MjBzeXN0ZW0lMjUyMHNvZnR3YXJlJTI2dXRtX21hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkcyUyNmFkcG9zJTNkJTI2YWQlM2QlMjZzaXRlbGluayUzZCUyNmxvY2F0aW9uJTNkMTAyMDU3JTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZ0YXJnZXRpZCUzZGt3ZC03MzY2NzgwNzc2ODg3NyUzYWxvYy0xOTAlMjZjYW1wYWlnbiUzZDU2OTcwMDQxMCUyNmFkZ3JvdXAlM2QxMTc4Njc4MzExMDgwMzU4JTI2dXRtX2NhbXBhaWduJTNkJTNhMSUzYVNBJTNhMiUzYUNPTSUzYTMlM2FFTkclM2E0JTNhVVMlM2E1JTNhQkFVJTNhNiUzYVNPRiUzYTclM2FBbGwlM2E4JTNhUEglM2E5JTNhUHJvamVjdF9NYW5hZ2VtZW50JTNhMTMlM2FQTSUyNm1zY2xraWQlM2Q0MmE2M2Y0ZDI3YzMxN2E2ZmNhYTU1NDE4MTE0NDA4OQ%2526rlid%253D42a63f4d27c317a6fcaa554181144089%26vqd%3D4%2D139128645455663606624694634475436451897%26iurl%3D%257B1%257DIG%253D18F9A6F3BFA5463090C02DF6E7967A0F%2526CID%253D3E0659785DC46AAB16604E265C886B37%2526ID%253DDevEx%252C5047.1&amp;rut=26eb44158fb5fc071a57ef24caaa8c590bb8fe55186bb8ffd581e6b003b24ca4",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Asana Reviews 2026. Verified Reviews, Pros &amp; Cons | Capterra",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.capterra.com%2Fp%2F184581%2FAsana%2DPM%2Freviews%2F&amp;rut=f40ed19795e4f736a3c1bd6a7824c825f117e75da2f0add51c044cbd52ae52f2",
+          "sentiment": "positive"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Asana Software Pricing, Alternatives &amp; More 2026 | Capterra",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.capterra.com%2Fp%2F184581%2FAsana%2DPM%2F&amp;rut=e7fdb5a1c4064f394dcc06a1d871c510d700ecb98cca5b6c93428c2f5a9b90e0",
+          "sentiment": "neutral"
+        },
+        {
+          "competitor": "Asana",
+          "source": "capterra.com",
+          "title": "Asana Pricing: A Comprehensive Guide | Capterra",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.capterra.com%2Fp%2F184581%2FAsana%2DPM%2Fpricing%2F&amp;rut=6c6606db6ab4b8089d5dfa7f8e36f77c36b502740afe6a3f6476b00959b189a7",
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
